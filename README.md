@@ -1,16 +1,5 @@
-# lista
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>Projeto Lista de anotação</h1>
+<h3>usado banco de dados com o sqflite</h3>
+<p>Esse projeto envolve CRUD na qual pode se cadastrar título e uma descricao de alguma anotação que conterá data e hora podendo também ser editado e alterando o título e descrição.</p>
+<p>Essas anotações estão dispostas em cards no formato de ListTile</p>
+![tela](https://github.com/user-attachments/assets/2bd001ad-a331-4fa1-bcb0-08cbf001ad65)
